@@ -1,4 +1,4 @@
-/*   Sample code	*/
+/*   Sample code pulled from Github	*/
 /*   Please read over instructions first!	*/
 const world = "world"
 const my_important_message = 
